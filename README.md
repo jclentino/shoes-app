@@ -1,5 +1,5 @@
 ## Instalación
-1.Clona este repositorio https://github.com/jclentino/shoes-app
+1. Clona este repositorio https://github.com/jclentino/shoes-app
 2. Accede a la carpeta del proyecto cd shoes-app
 3. Instala las dependencias con npm install 
 
